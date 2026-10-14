@@ -6,7 +6,7 @@
 }
 
 body{
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
 }   
 
 html{
@@ -260,4 +260,15 @@ footer p{
      footer p{
         margin: 0;
      }
+}
+a:focus-visible, button:focus-visible { outline: 3px solid #1e96fc; outline-offset: 4px; }
+.call-to-action, .action { display: inline-block; text-decoration: none; }
+.project-links { max-width: 90%; padding-left: 24px; line-height: 2; }
+.project-links a { color: #075f9b; }
+.gallery-note { max-width: 80%; text-align: center; padding-top: 16px; }
+section[id] { scroll-margin-top: 80px; }
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .call-to-action, .action, .project img { transition: none; }
+    .call-to-action:hover, .action:hover { transform: none; }
 }
