@@ -1,15 +1,21 @@
-# Portfólio de Vitor Ferreira
+# Portfólio — Vitor Ferreira
 
-Página estática de apresentação com seções de início, sobre, projetos e contato. Desenvolvida como estudo de HTML e CSS, sem framework ou etapa de compilação.
+Portfólio de estudos em desenvolvimento front-end, com JavaScript, React e TypeScript em destaque e Flutter como experiência complementar.
 
-## Executar
-
-Abra `index.html` em um navegador ou sirva a pasta por um servidor estático. Para publicar, preserve as pastas `images` e o arquivo `style.css` junto ao HTML. As fontes do Google dependem da internet; há fallback para fonte sans-serif.
+**[Abrir portfólio](https://vitor-ferreira11-portfolio.cozyseed5.chatgpt.site)**
 
 ## Conteúdo
 
-Os links de projetos levam aos repositórios reais do autor. As imagens da galeria são ilustrativas do exercício de layout e estão identificadas como tal; não são apresentadas como capturas verificadas dos projetos. O contato utiliza o e-mail já publicado no perfil do GitHub.
+Cards com capturas reais da calculadora de combustível, lista de tarefas e Pokédex. Cada card apresenta tecnologias, comportamento e links para demonstração e código. O TechTaste tem uma apresentação do fluxo em Flutter; o Prime Flix aponta para instruções de configuração do TMDB.
 
-## Verificação manual
+As capturas estão em `images/*-real.png`. Atualize-as ao mudar as interfaces. Os arquivos ilustrativos do exercício original foram preservados, mas não são usados como capturas de projetos.
 
-Confira navegação por teclado, foco visível, âncoras das seções, links de repositórios, contato e layout em telas pequenas. A página respeita a preferência por movimento reduzido. Não há formulário de orçamento nem backend de envio.
+## Executar
+
+Abra `index.html` no navegador ou use um servidor estático nesta pasta. Não há instalação de dependências ou etapa de build. As fontes usam Google Fonts, com fallback local.
+
+## Revisão
+
+Verifique navegação por teclado, links de âncora, contraste e layout em tela pequena. A página inclui link para pular ao conteúdo, foco visível, textos alternativos e respeito à preferência por movimento reduzido.
+
+As demonstrações são projetos educacionais; suas limitações estão documentadas nos respectivos repositórios.
