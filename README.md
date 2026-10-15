@@ -1,19 +1,15 @@
-👨‍💻 Sobre mim
-Desenvolvedor com foco em front-end, apaixonado por criar interfaces modernas, responsivas e funcionais. Tenho experiência com HTML, CSS e boas práticas de design, aplicando fontes do Google Fonts, animações suaves, estrutura limpa e navegação intuitiva.
+# Portfólio de Vitor Ferreira
 
-Meus projetos demonstram:
+Página estática de apresentação com seções de início, sobre, projetos e contato. Desenvolvida como estudo de HTML e CSS, sem framework ou etapa de compilação.
 
-🌐 Estruturação semântica de páginas HTML;
+## Executar
 
-🎨 Estilização com CSS puro, incluindo responsividade para diferentes tamanhos de tela;
+Abra `index.html` em um navegador ou sirva a pasta por um servidor estático. Para publicar, preserve as pastas `images` e o arquivo `style.css` junto ao HTML. As fontes do Google dependem da internet; há fallback para fonte sans-serif.
 
-🧩 Organização de seções como Home, Sobre, Projetos e Rodapé;
+## Conteúdo
 
-📸 Integração de imagens e conteúdo visual de forma harmônica;
+Os links de projetos levam aos repositórios reais do autor. As imagens da galeria são ilustrativas do exercício de layout e estão identificadas como tal; não são apresentadas como capturas verificadas dos projetos. O contato utiliza o e-mail já publicado no perfil do GitHub.
 
-🚀 Interatividade com efeitos de hover e botões chamativos;
+## Verificação manual
 
-📱 Layout adaptável para dispositivos móveis.
-
-Busco constantemente melhorar minhas habilidades e aprender novas tecnologias para entregar soluções que unam performance, usabilidade e design.
-Sinta-se à vontade para explorar meus projetos!
+Confira navegação por teclado, foco visível, âncoras das seções, links de repositórios, contato e layout em telas pequenas. A página respeita a preferência por movimento reduzido. Não há formulário de orçamento nem backend de envio.
