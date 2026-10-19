@@ -2,7 +2,7 @@
 
 Portfólio de Vitor Ferreira, Analista de Sistemas, com projetos em JavaScript, React e TypeScript e experiências com Flutter.
 
-**[Abrir portfólio](https://vitor-ferreira11-portfolio.cozyseed5.chatgpt.site)**
+**[Abrir portfólio](https://vitor-ferreira-portfolio.vercel.app)**
 
 ## Conteúdo
 
